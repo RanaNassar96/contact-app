@@ -1,0 +1,10 @@
+.navigation-section{
+    background-color: black;
+    padding: 15px 0;
+}
+a{
+    color: white!important;
+}
+.navi-link{
+    text-align: end;
+}
